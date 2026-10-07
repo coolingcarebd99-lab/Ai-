@@ -1,0 +1,6 @@
+{
+  "name": "Cooling Care BD (কুলিং কেয়ার বিডি)",
+  "description": "3D-Animated Technical Training Portal for learning AC, Washing Machine, and Refrigerator repair in Bangladesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
